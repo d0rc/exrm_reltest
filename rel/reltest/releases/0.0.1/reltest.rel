@@ -1,0 +1,8 @@
+{release,{"reltest","0.0.1"},
+         {erts,"6.1"},
+         [{kernel,"3.0.1"},
+          {stdlib,"2.1"},
+          {elixir,"0.14.3"},
+          {reltest,"0.0.1"},
+          {iex,"0.14.3"},
+          {sasl,"2.4"}]}. 

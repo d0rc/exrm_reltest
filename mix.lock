@@ -1,0 +1,2 @@
+%{"conform": {:package, "0.8.2"},
+  "exrm": {:git, "git://github.com/bitwalker/exrm.git", "579bc809768fafdcb6b636438853d7b2ed26a966", []}}
